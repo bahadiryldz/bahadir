@@ -9,7 +9,7 @@ about me
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bahadiryildiz8)
 [![Mail Badge](https://img.shields.io/badge/bahadiryldz34441@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bahadiryldz34441@gmail.com)](mailto:bahadiryldz34441@gmail.com)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahadiryldz)]()
 ![Visitor Count](https://profile-counter.glitch.me/bahadiryldz/count.svg)
 
 # Interests
