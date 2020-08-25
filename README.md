@@ -1,6 +1,6 @@
 # bahadir
 about me
-@@ -4,7 +4,6 @@
+
 # Hello World;
 # Bahadır YILDIZ's github
 
@@ -12,6 +12,6 @@ about me
 
 ![Visitor Count](https://profile-counter.glitch.me/bahadiryldz/count.svg)
 ## My GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firtanaelif&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadiryldz&hide=TeX&layout=compact)
 # Interests
 [![](https://img.shields.io/badge/python-fb8532?style=for-the-badge&logo=python)]()
