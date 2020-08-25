@@ -11,7 +11,7 @@ about me
 
 
 ![Visitor Count](https://profile-counter.glitch.me/bahadiryldz/count.svg)
-## My GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadiryldz&hide=TeX&layout=compact)
+
 # Interests
 [![](https://img.shields.io/badge/python-fb8532?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
