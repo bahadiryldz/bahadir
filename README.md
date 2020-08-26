@@ -1,8 +1,7 @@
-# bahadir
-about me
 
 # Hello World;
 # Bahadır YILDIZ's github
+I'm Bahadır from Turkey,I'm a biomedical engineer. I really enjoy learning languages.
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BahadrYldzzz)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahadır-yıldız-8b8349174/)
