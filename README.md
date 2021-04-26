@@ -1,16 +1,18 @@
 
+
 # Hello World;
 # Bahadır YILDIZ's github
 I'm Bahadır from Turkey,I'm a biomedical engineer. I really enjoy learning languages.
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BahadrYldzzz)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahadır-yıldız-8b8349174/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bahadiryildiz8)
-[![Mail Badge](https://img.shields.io/badge/bahadiryldz34441@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bahadiryldz34441@gmail.com)](mailto:bahadiryldz34441@gmail.com)
+  <a href="https://www.twitter.com/BahadrYldzzz/" target="_blank" rel="nofollow"><img alt="Bahadir's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2??style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bahadır-yıldız-8b8349174/" target="_blank" rel="nofollow"><img alt="Bahadir's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bahadiryldz34441@gmail.com" target="_blank" rel="nofollow"><img alt="Bahadir's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahadiryldz)]()
 ![Visitor Count](https://profile-counter.glitch.me/bahadiryldz/count.svg)
 
-# Interests
-[![](https://img.shields.io/badge/python-fb8532?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
+## 🛠 Languages & Tools 
+
+<img src="https://img.shields.io/badge/Python-0b8056??style=flat-square&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-9E0000??style=flat-square&logo=java&logoColor=white"></img>
