@@ -1,6 +1,6 @@
 
 
-# Hello World;
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 # Bahadır YILDIZ's github
 I'm Bahadır from Turkey,I'm a biomedical engineer. I really enjoy learning languages.
 
@@ -8,6 +8,9 @@ I'm Bahadır from Turkey,I'm a biomedical engineer. I really enjoy learning lang
   <a href="https://www.linkedin.com/in/bahadır-yıldız-8b8349174/" target="_blank" rel="nofollow"><img alt="Bahadir's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bahadiryldz34441@gmail.com" target="_blank" rel="nofollow"><img alt="Bahadir's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=bahadiryldz.bahadiryldz)
+
+<br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahadiryldz)]()
 ![Visitor Count](https://profile-counter.glitch.me/bahadiryldz/count.svg)
 
