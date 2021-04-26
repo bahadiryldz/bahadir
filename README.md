@@ -13,9 +13,12 @@ I'm Bahadır from Turkey,I'm a biomedical engineer. I really enjoy learning lang
 
 <br />
 
-##📈 My GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahadiryldz)]()
+📈 My GitHub Stats
 
+<p align="center">
+  <p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahadiryldz)]()
+<p>
 
 ## 🛠 Languages & Tools 
  
