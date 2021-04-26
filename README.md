@@ -11,7 +11,7 @@ I'm Bahadır from Turkey,I'm a biomedical engineer. I really enjoy learning lang
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bahadiryldz.bahadiryldz)
 
-<br />
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahadiryldz)]()
 ![Visitor Count](https://profile-counter.glitch.me/bahadiryldz/count.svg)
